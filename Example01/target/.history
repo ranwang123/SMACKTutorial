@@ -1,0 +1,19 @@
+compile
+assembly
+package
+compile
+clean
+compile
+package
+assembly
+compile Producer
+project Producer
+compile
+package
+assembly
+run
+clean
+compile
+package
+assembly
+clean
